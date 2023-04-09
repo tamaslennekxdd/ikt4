@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+
+
+#invis{
+    color: transparent;
+}
+
+#bgc{
+    margin-left: auto ;
+    margin-right: auto;
+    width: fit-content;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#kozep{
+    text-align: center;
+}
+
+#webkamkep{
+    width: 300px;
+    position: absolute;
+    right: 2% ;
+}
+
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
